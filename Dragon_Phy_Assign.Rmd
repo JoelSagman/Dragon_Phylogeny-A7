@@ -1,8 +1,9 @@
 ---
 title: "Dragon_Phy_Assignment"
-author: Joel Sagman
+author: Joel Sagman (https://github.com/JoelSagman/Dragon_Phylogeny-A7)
 output: html_document
 ---
+
 #### Load necessary packages
 ```{r}
 library(ape)
